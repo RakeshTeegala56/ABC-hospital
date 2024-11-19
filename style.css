@@ -1,0 +1,21 @@
+.headclass{
+    background-color: blue;
+    color: white;
+    text-align: center;
+
+}
+a{
+    color: white;
+    
+}
+.myclass{
+     text-align: center;
+}
+h2{
+    color: blue;
+}
+.button{
+    background-color: blue;
+    color: white;
+    align-items: center;
+}
